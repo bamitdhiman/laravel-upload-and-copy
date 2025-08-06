@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Bamit\LaravelUploadCopy\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelUploadCopyCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-upload-and-copy';
 
     public $description = 'My command';
 
